@@ -1,0 +1,18 @@
+{
+  "name": "favic",
+  "version": "1.0.0",
+  "description": "A simple cli tool for generating favicons",
+  "main": "bin/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "favic": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
